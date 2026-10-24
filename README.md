@@ -1,4 +1,8 @@
+<div align="center">
+
 # Big Data Analysis Project
+
+</div>
 
 <div align="center">
   <img src="https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 3.13" />
